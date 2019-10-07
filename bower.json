@@ -1,0 +1,10 @@
+{
+  "name": "tp2",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "angular-resource": "^1.4.0"
+  },
+  "appPath": "app",
+  "moduleName": "tp2App"
+}
