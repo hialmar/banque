@@ -1,0 +1,9 @@
+<form>
+  <label>Id : <input type="text" [(ngModel)]="ic.id" name='id'></label><br>
+  <label>Somme : <input type="number" [(ngModel)]="ic.somme" name='somme'></label><br>
+  <button (click)="creerCompte()">Créer compte</button><br>
+  <button (click)="positionDuCompte()">Position du compte</button><br>
+  <button (click)="ajouterAuCompte()">Créditer le compte</button><br>
+  <button (click)="retirerDuCompte()">Débiter le compte</button><br>
+</form>
+<p>Resultat : {{resultat}}</p>

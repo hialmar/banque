@@ -3,6 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/banque-frontend/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/banque-frontend/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/public/banque-frontend/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/public/banque-frontend/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
