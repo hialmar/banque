@@ -10,7 +10,7 @@ function isFloat(value) {
 }
 
 
-// Si on lance l'application Angular.js avec grunt serve
+// Si on lance l'application Angular.js avec ng serve
 app.all('*', function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
